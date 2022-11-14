@@ -1,2 +1,3 @@
 # dotnetmalaga2022
-Contenido de la charla Epifanías de developer
+
+Aquí encontraréis la presentación y el código de ejemplo que vimos en la [dotnetmalaga2022](https://dotnetmalaga.es/2022/)
